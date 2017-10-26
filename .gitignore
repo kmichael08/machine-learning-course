@@ -3,3 +3,6 @@ slides/
 
 #virtual environment
 mlenv/
+
+#jupyter checkpoints
+.ipynb_checkpoints/
